@@ -1,20 +1,18 @@
-### Hi there 👋
+### Hi there, I'm [Habibo!](https://github.com/HabiboIV) 👋
 
-<!--
-**HabiboIV/HabiboIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+I'm Habibo Ismael Viegas from Mozambique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything [here](https://github.com/HabiboIV/HabiboIV/issues)
+
+**Stats:**  
+
+<a href="https://github.com/HabiboIV">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HabiboIV&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
+</a>
 
 <a href="https://github.com/HabiboIV">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=HabiboIV&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 </a>
