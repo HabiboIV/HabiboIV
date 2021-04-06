@@ -1,8 +1,5 @@
 ### Hi there, I'm [Habibo!](https://github.com/HabiboIV) 👋
 
-<br />
-<br />
-
 I'm Habibo Ismael Viegas from Mozambique.
 
 - 💬 Ask me about anything [here](https://github.com/HabiboIV/HabiboIV/issues)
